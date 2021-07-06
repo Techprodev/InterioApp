@@ -1,0 +1,8 @@
+{
+  "dbHost": "localhost",
+  "dbUser": "api",
+  "dbPassword": "api@123",
+  "dataBaseName": "mysqlapi",
+  "conLimit": 10,
+  "jwt_secret": "myappjwtsecret"
+}
